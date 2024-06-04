@@ -1,2 +1,3 @@
-# huggingface-language-model
-AML3304_SoftwareToolsClass_w5
+# Hugging Face Language Model
+
+This project contains a simple AI language model using GPT-2, deployed with Gradio.
